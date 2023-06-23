@@ -2,4 +2,4 @@
 - 👀 I’m interested in learning programming.
 - 🌱 I’m currently learning HTML, CSS, JavaScript.
 - 📫 Contacts:
-  -  Discord - iceeburr#0746
+  -  Discord - @iceeb
