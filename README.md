@@ -1,5 +1,11 @@
-- 👋 Howdy! I’m iceeburr.
-- 👀 I’m interested in learning programming.
-- 🌱 I’m currently learning HTML, CSS, JavaScript.
-- 📫 Contacts:
-  -  Discord - @iceeb
+{
+  About Me: {
+    Contact Info: {
+      Email: "iceeburr@gmail.com"
+      Discord: "@iceeb"
+      Twitter: "@iceeburr (Not Regurally Checked)"
+      Guilded: "https://guilded.gg/iceeburr"
+      Telegram: "https://t.me/iceeburr"
+    }
+  }
+}
