@@ -3,7 +3,7 @@
   "About Me": {
     "Contact Info": {
       "Email": "iceeburr@gmail.com"
-      "Discord": "@iceeb"
+      "Discord": "@iceeburr"
       "Twitter": "@iceeburr (Not Regurally Checked)"
       "Guilded": "https://guilded.gg/iceeburr"
       "Telegram": "https://t.me/iceeburr"
