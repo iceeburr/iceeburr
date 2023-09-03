@@ -2,9 +2,10 @@
 {
   "About Me": {
     "Contact Info": {
-      "Email": "iceeburr@gmail.com"
+      "Website": "https://iceeburr.ru"
+      "Email": "contact@iceeburr.ru"
       "Discord": "@iceeburr"
-      "Twitter": "@iceeburr (Not Regurally Checked)"
+      "Twitter": "@iceeburr"
       "Guilded": "https://guilded.gg/iceeburr"
       "Telegram": "https://t.me/iceeburr"
     }
